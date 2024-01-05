@@ -18,7 +18,7 @@ amount over all invoices.
     3. Custumer
     4. Invoice
 ##### Solution :
-    [Invoice_Per_Country](https://github.com/andre-ahmad/Intermediate-SQL-Certification-By-HackerRank/tree/main/invoice-percountry.sql)
+    [Invoice_Per_Country](https://www.github.com/andre-ahmad/Intermediate-SQL-Certification-By-HackerRank/blob/main/invoice-percountry.sql)
 ##### 2. Product Sales Per City
 For each pair of city and products return the names of the city and product, as well the total amount 
 spent on the product to 2 decimal places. Order the result by the amount spent from high to low 
@@ -30,4 +30,4 @@ then by city name and product name in ascending order.
     4. Invoice Item
     5. Product
 ##### Solution :
-    [Product_Sales_Per_city](https://github.com/andre-ahmad/Intermediate-SQL-Certification-By-HackerRank/tree/main/produk-sales-percity.sql)
+    [Product_Sales_Per_city](https://www.github.com/andre-ahmad/Intermediate-SQL-Certification-By-HackerRank/blob/main/produk-sales-percity.sql)
